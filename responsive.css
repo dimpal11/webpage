@@ -1,0 +1,723 @@
+body {
+    font-family: Arial, sans-serif;
+}
+@media screen and (max-width: 506px) {
+    #header{
+        width: 525px;
+    }
+    .navbar{
+        width: 80%;
+    }
+    #section {
+        width: 525px;
+    }
+    #main{
+        width: 525px;
+    }
+    #section4{
+        width: 525px;
+    }
+    /* #section5 .MOAOM{
+        margin: 0px;
+    } */
+    #section6 {
+        padding: 0px;
+    }
+    #section7 {
+        padding: 10px 84px 12px 20px;
+    }
+    #accordion{
+        padding-top: 21px;
+        margin: 10px;
+    }
+    #section8 button{
+        margin: 0px;
+    }
+    #footer .footer-top .footer-contact h3 img{
+        height: 115px;
+    }
+    #footer .footer-top .footer-contact p{
+        font-size: 21px;
+    }
+    .footer-links h4{
+        font-size: 21px;
+    }
+    #Contact1{
+        width: 525px;
+    }
+    #Contact2 {
+        width: 525px;
+    }
+    #footer{
+        width: 525px;
+    }
+    /* #section5 .row .col-lg-6{
+        margin: 17px 47px 18px -48px;
+    } */
+}
+
+@media (min-width: 768px) {
+    #section5 .col-md-6 {
+        flex: 0 0 auto;
+        width: 50%;
+        /* margin: 58px 273px 14px 85px; */
+        padding: 10px 10px 10px 10px;
+    }
+    #section5 .MOAOM1{
+        margin: 12PX 40PX 13PX 85PX;
+    }
+    #section7 .container{
+        margin: 0px ;
+      }
+      #section7 .row{
+        margin: 22px 0px 22px 10px;
+      }
+      #section7 .text1{
+        margin: 0px 3px 60px 1px !important;
+      }
+      #accordion{
+        margin: 0px;
+      }
+
+}
+@media screen and (max-width: 675px){
+       /* #section7 h2{
+        margin: 92px;
+       } */
+       #section7 {
+        padding: 10px;
+      }
+     
+      #accordion{
+        margin: 0px;
+      }
+}
+
+
+
+/* @media screen and (max-width: 768px) {
+    #header{
+        background-color: cadetblue;
+        width: 100%;
+        height: 100%;
+    }
+} */
+
+/* Navbar styles */
+/* .navbar-brand img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-bottom: 10px;
+    }
+
+    .navbar-nav .nav-item .nav-link{
+        font-size: 14px;
+    }
+    .button {
+        width: 100%;
+        padding: 0.75rem 0;
+    }
+
+} */
+
+/* Section Styles */
+/* #section .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#section .pal {
+    font-size: 1.2rem;
+} */
+
+/* #section h2 {
+    font-size: 2rem;
+}
+
+#section .text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+#section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+@media screen and (max-width: 768px) {
+    #section {
+        text-align: center;
+    }
+
+    #section .col-lg-6 {
+        margin-bottom: 45px;
+    }
+}
+
+@media screen and (max-width:575px) {
+   #section .btn{
+        margin: 9px 15px 8px;
+        padding: 8px 11px 8px 11px;
+        font-size: 12px;
+    }
+    .navbar-nav .nav-item .nav-link{
+        font-size: 12px;
+    }
+    
+  
+}
+
+@media screen and(max-width : 1024px) {
+    .navbar-nav .nav-item .nav-link{
+        margin: 0;
+        font-size: 10px;
+    }
+} */
+/* Partners Section */
+/* .section2 .col-lg-2 {
+    margin-bottom: 20px;
+}
+
+.section2 img {
+    max-width: 100%;
+    height: auto;
+} */
+
+/* Product Suite Section */
+/* .section-title h2 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.section-title p {
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#section3 .row .col-lg-4 {
+    margin-bottom: 20px;
+}
+
+#section3 .row h4 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+#section3 .row p {
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .section-title h2 {
+        font-size: 1.5rem;
+    }
+
+    .section-title p {
+        font-size: 0.875rem;
+    }
+
+    #section3 .row h4 {
+        font-size: 1.25rem;
+    }
+
+    #section3 .row p {
+        font-size: 0.875rem;
+    }
+} */
+
+
+/* @media screen and (max-width:506px){
+    #header{
+        width: 525px;
+        overflow: hidden;
+    }
+    #section{
+        width: 525px;
+        overflow: hidden;
+    }
+    #main{
+        width: 525px;
+        overflow: hidden;
+
+    }
+    #footer{
+        width: 525px;
+        overflow: hidden;
+
+    }
+
+    #section5 {
+        width: 525px;
+        overflow: hidden;
+
+    }
+    #section5 .MOAOM{
+        margin: 0px;
+    }
+    #section6{
+        padding: 0px;
+    }
+    #section7{
+        padding: 10px 53px 36px 32px;
+    } */
+
+    /* #acccot */
+    /* #section5 .col-lg-6{
+        margin: 16px 59px 10px -59px;
+    } */
+/* }
+
+@media screen and (max-width:576px){
+    #header{
+        width: 525px;
+        overflow: hidden;
+    }
+    #section{
+        width: 525px;
+        overflow: hidden;
+    }
+    #main{
+        width: 525px;
+        overflow: hidden;
+
+    }
+    #footer{
+        width: 525px;
+        overflow: hidden;
+
+    }
+
+    #section5 {
+        width: 525px;
+        overflow: hidden;
+
+    }
+    #section5 .MOAOM{
+        margin: 0px;
+    }
+    #section6{
+        padding: 0px;
+    }
+    #section7{
+        padding: 10px 53px 36px 32px;
+    }
+
+ 
+ } */
+
+
+
+ /* @media  screen and (max-width: 768px) { */
+
+    /* #section7 .row{
+        margin: 10px 10px 10px 10px;
+        padding: 20px 10px 10px 10px;
+    } */
+    /* #header{
+        width: 764px;
+        overflow: hidden;
+    }
+  
+    #section{
+        width: 764px;
+        overflow: hidden;
+    }
+
+    #main{
+        width: 764px;
+        overflow: hidden;
+
+    }
+
+    #footer{
+        width: 764px;
+        overflow: hidden;
+
+    }
+
+    #section5 {
+        width: 764px;
+        overflow: hidden;
+
+    }
+    #section5 .MOAOM{
+        margin: 0px;
+    }
+    #section6{
+        padding: 0px;
+    }
+    #section7{
+        padding: 10px 53px 36px 32px;
+    }
+    #section7 .text1{
+        padding: 42px;
+        margin: 10px 10px 106px 10px;
+    }
+    #section7 .text1 {
+        /* padding: 1px; */
+        /* margin: 0px 3px 115px 1px;
+     }
+    #section7 .row{
+        margin: 0px 0px 22px 0px;
+    }
+    #section7 .text1{
+        margin: 0px 3px 177px 1px;
+    }
+
+    #footer .social-icons{
+        margin: 27px 121px 73px 4px;
+    }
+
+ } */ 
+
+/* @media screen and (max-width: 992px){
+    /* #accordion {
+        margin: 33px 190px 33px 183px !important;
+    } */
+/* }  */
+
+/* 
+@media screen and (max-width:1024px) {
+    #footer .social-icons{
+        margin: 97px 0px 22px 10px;
+    }    */
+
+    /* #accordion {
+        margin: 33px 190px 33px 183px !important;
+    } */
+/* } */
+/* 
+@media screen and (max-width:1013px){
+  
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ye pahele ka code hai */
+
+/* General Styles */
+
+
+
+
+
+
+/* @media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+    #section {
+        text-align: center;
+    }
+    #section .col-lg-6 {
+        margin-bottom: 20px;
+    }
+    .section2 .col-lg-2 {
+        margin-bottom: 20px;
+    }
+    .section2 img {
+        max-width: 100%;
+        height: auto;
+    }
+    .section-title h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    
+    .section-title p {
+        font-size: 1rem;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    
+    #section3 .row .col-lg-4 {
+        margin-bottom: 20px;
+    }
+    
+    #section3 .row h4 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    #section3 .row p {
+        font-size: 1rem;
+    }
+
+    .section-title h2 {
+        font-size: 1.5rem;
+    }
+
+    .section-title p {
+        font-size: 0.875rem;
+    }
+
+    #section3 .row h4 {
+        font-size: 1.25rem;
+    }
+
+    #section3 .row p {
+        font-size: 0.875rem;
+    }
+
+} */
+
